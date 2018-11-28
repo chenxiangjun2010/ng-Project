@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Ng Alain
+Ng  Project
 </h1>
 
 <div align="center">
